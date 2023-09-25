@@ -1,0 +1,15 @@
+name: MobsRevolution
+version: 1.0
+author: VotreNom
+main: mobsrevolution.Main
+commands:
+  airspawn:
+    description: Définit le point de lobby du jeu.
+  airteleport:
+    description: Définit les points de téléportation pour la partie.
+  airdead:
+    description: Définit le point de téléportation pour les joueurs qui meurent.
+  start:
+    description: Démarre le jeu immédiatement
+    usage: /<command>
+    
